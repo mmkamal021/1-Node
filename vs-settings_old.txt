@@ -1,0 +1,24 @@
+{
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.mouseWheelZoom": true,
+  "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": 1,
+  "editor.fontFamily": "Fira Code,Consolas, 'Courier New', monospace",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Dracula",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "cSpell.userWords": [],
+  "[python]": {
+    "editor.formatOnType": true
+  }
+}
+
+// For npm note 
+1. npm init -y
+2. npm i lodash
+3. npm i bootstrap
