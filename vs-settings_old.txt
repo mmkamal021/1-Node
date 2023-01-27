@@ -22,3 +22,19 @@
 1. npm init -y
 2. npm i lodash
 3. npm i bootstrap
+4. npm i nodemon -D
+4.1. npm install && npm start
+5.   "scripts": {
+    "start": "node app.js"
+  },
+6.   "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+
+7. npm install express@4.18.2 --save
+8. npm i morgan
+
+// npm uninstall packageName
+1. npm uninstall bootstrap
+
